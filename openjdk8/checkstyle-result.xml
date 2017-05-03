@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="7.7-SNAPSHOT">
+<checkstyle version="7.8-SNAPSHOT">
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk8/src/windows/classes/sun/java2d/windows/GDIRenderer.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk8/src/windows/classes/sun/java2d/windows/GDIWindowSurfaceData.java">

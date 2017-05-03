@@ -25,7 +25,7 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2017</copyright>
     <item>
-      <title>File: 1764,
+      <title>File: 1774,
              Errors: 0,
              Warnings: 0,
              Infos: 0
@@ -3084,6 +3084,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava.src.com.google.common.primitives.ImmutableDoubleArray.java">guava-mvnstyle/android/guava/src/com/google/common/primitives/ImmutableDoubleArray.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava-tests.benchmark.com.google.common.collect.SortedCopyBenchmark.java">guava-mvnstyle/android/guava-tests/benchmark/com/google/common/collect/SortedCopyBenchmark.java</a>
                 </td>
                 <td>
@@ -5674,6 +5688,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava.src.com.google.common.hash.LongAddable.java">guava-mvnstyle/guava/src/com/google/common/hash/LongAddable.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava.src.com.google.common.annotations.Beta.java">guava-mvnstyle/android/guava/src/com/google/common/annotations/Beta.java</a>
                 </td>
                 <td>
@@ -7942,6 +7970,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava.src.com.google.common.hash.LongAdder.java">guava-mvnstyle/android/guava/src/com/google/common/hash/LongAdder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava-tests.benchmark.com.google.common.util.concurrent.ExecutionListBenchmark.java">guava-mvnstyle/android/guava-tests/benchmark/com/google/common/util/concurrent/ExecutionListBenchmark.java</a>
                 </td>
                 <td>
@@ -9525,6 +9567,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava-testlib.src.com.google.common.collect.testing.TestMapEntrySetGenerator.java">guava-mvnstyle/guava-testlib/src/com/google/common/collect/testing/TestMapEntrySetGenerator.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava.src.com.google.common.hash.Striped64.java">guava-mvnstyle/guava/src/com/google/common/hash/Striped64.java</a>
                 </td>
                 <td>
                   0
@@ -11708,6 +11764,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava.src.com.google.common.hash.LongAddables.java">guava-mvnstyle/android/guava/src/com/google/common/hash/LongAddables.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava.src.com.google.common.util.concurrent.AbstractExecutionThreadService.java">guava-mvnstyle/android/guava/src/com/google/common/util/concurrent/AbstractExecutionThreadService.java</a>
                 </td>
                 <td>
@@ -13585,6 +13655,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava-testlib.src.com.google.common.collect.testing.google.ListMultimapAsMapTester.java">guava-mvnstyle/android/guava-testlib/src/com/google/common/collect/testing/google/ListMultimapAsMapTester.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava.src.com.google.common.hash.LongAddable.java">guava-mvnstyle/android/guava/src/com/google/common/hash/LongAddable.java</a>
                 </td>
                 <td>
                   0
@@ -15685,6 +15769,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava-testlib.src.com.google.common.collect.testing.testers.ListSetTester.java">guava-mvnstyle/android/guava-testlib/src/com/google/common/collect/testing/testers/ListSetTester.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava.src.com.google.common.primitives.ImmutableDoubleArray.java">guava-mvnstyle/guava/src/com/google/common/primitives/ImmutableDoubleArray.java</a>
                 </td>
                 <td>
                   0
@@ -18974,6 +19072,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.android.guava.src.com.google.common.hash.Striped64.java">guava-mvnstyle/android/guava/src/com/google/common/hash/Striped64.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava-testlib.src.com.google.common.collect.testing.testers.ListSetTester.java">guava-mvnstyle/guava-testlib/src/com/google/common/collect/testing/testers/ListSetTester.java</a>
                 </td>
                 <td>
@@ -19283,6 +19395,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava.src.com.google.common.collect.CollectSpliterators.java">guava-mvnstyle/guava/src/com/google/common/collect/CollectSpliterators.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava.src.com.google.common.hash.LongAddables.java">guava-mvnstyle/guava/src/com/google/common/hash/LongAddables.java</a>
                 </td>
                 <td>
                   0
@@ -24365,6 +24491,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava-testlib.src.com.google.common.collect.testing.testers.SetHashCodeTester.java">guava-mvnstyle/guava-testlib/src/com/google/common/collect/testing/testers/SetHashCodeTester.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#guava-mvnstyle.guava.src.com.google.common.hash.LongAdder.java">guava-mvnstyle/guava/src/com/google/common/hash/LongAdder.java</a>
                 </td>
                 <td>
                   0

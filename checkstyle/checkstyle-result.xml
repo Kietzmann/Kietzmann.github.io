@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="7.7-SNAPSHOT">
+<checkstyle version="7.8-SNAPSHOT">
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/it/java/com/google/checkstyle/test/chapter7javadoc/rule711generalform/SingleLineJavadocTest.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/it/java/com/google/checkstyle/test/chapter7javadoc/rule731selfexplanatory/JavadocMethodTest.java">
@@ -289,6 +289,8 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/google/checkstyle/test/chapter4formatting/rule4841indentation/InputIndentationCorrectFieldAndParameter.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/google/checkstyle/test/chapter4formatting/rule4841indentation/InputIndentationCorrectForAndParameter.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/google/checkstyle/test/chapter4formatting/rule451wheretobreak/InputSeparatorWrapMethodRef.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/google/checkstyle/test/chapter4formatting/rule451wheretobreak/InputSeparatorWrap.java">
 </file>
@@ -1588,11 +1590,11 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/api/InputJustToMakeStackoverflowError.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/ant/InputCheckstyleAntTaskError.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/ant/checkstyleanttask/InputCheckstyleAntTaskError.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/ant/InputCheckstyleAntTaskWarning.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/ant/checkstyleanttask/InputCheckstyleAntTaskWarning.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/ant/InputCheckstyleAntTaskFlawless.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/ant/checkstyleanttask/flawless/InputCheckstyleAntTaskFlawless.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/doclets/InputTokenTypesDocletCorrect.java">
 </file>
@@ -1660,8 +1662,6 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/nowhitespacebefore/InputNoWhitespaceBeforeDefault.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/InputSingleSpaceNoErrors.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/typecastparenpad/InputTypecastParenPadWhitespace.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/typecastparenpad/InputTypecastParenPadWhitespaceAround.java">
@@ -1671,6 +1671,12 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/emptyforinitializerpad/InputEmptyForInitializerPadDefaultConfig.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/emptyforiteratorpad/InputEmptyForIteratorPad.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/singlespaceseparator/InputSingleSpaceSeparatorNoErrors.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/singlespaceseparator/InputSingleSpaceSeparatorComments.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/singlespaceseparator/InputSingleSpaceErrors.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/InputSeparatorWrap.java">
 </file>
@@ -1736,7 +1742,7 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/separatorwrap/InputSeparatorWrapForInvalidOption.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/InputSingleSpaceErrors.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/separatorwrap/InputSeparatorWrapForTestMethodRef.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/operatorwrap/InputOperatorWrap.java">
 </file>
@@ -1789,8 +1795,6 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/nowhitespaceafter/InputNoWhitespaceAfterSynchronized.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/nowhitespaceafter/InputNoWhitespaceAfterArrayDeclarations.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/InputSingleSpaceComments.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/filetabcharacter/InputFileTabCharacterSimple.java">
 </file>
@@ -2022,8 +2026,6 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/sizes/outertypenumber/InputOuterTypeNumberEmptyInner.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/sizes/InputModifier.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/sizes/methodlength/InputMethodLengthModifier.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/sizes/methodlength/InputMethodLengthSimple.java">
@@ -2032,25 +2034,13 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/InputUncommentedMain4.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputFinalClass.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputRegression1762702.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputMutableExceptionClassExtendsGenericClass.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputDesignForExtensionIgnoredAnnotations.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputHideUtilityClassConstructor.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputInnerClass.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputPublicImmutable.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputNonUtilityClass.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputLocalAnnotations.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputOneTopLevelInterface.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/throwscount/InputThrowsCount.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputDesignForExtensionNativeMethods.java">
 </file>
@@ -2058,77 +2048,87 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputInner.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputHideUtilityClassConstructor3041574_1.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputImmutableStarImport2.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputPublicOnly.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputOneTopLevelClassNoPublic.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputEnumIsSealed.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputUtilityClassConstructorPrivate.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/onetoplevelclass/InputOneTopLevelInterface.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputUtilityClassConstructorPublic.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/onetoplevelclass/InputOneTopLevelClassNoPublic.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/onetoplevelclass/InputOneTopLevelClassDeclarationOrder.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/onetoplevelclass/InputOneTopLevelEnum.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/onetoplevelclass/InputOneTopLevelInterface2.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/onetoplevelclass/InputOneTopLevelClass.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/onetoplevelclass/InputOneTopLevelEnum2.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/onetoplevelclass/InputOneTopLevelClassClone.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputDesignForExtensionOverridableMethods.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputImmutableSameTypeName.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputHideUtilityClassConstructor3041574_2.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputAnnotatedVisibility.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructor.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorDesignForExtension.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorNonUtilityClass.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorSerializable.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorSerializableInnerStatic.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorInnerStaticClasses.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorRegression.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorAbstractSerializable.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorPublic.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/hideutilityclassconstructor/InputHideUtilityClassConstructorPrivate.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputInterfaceIsType.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputOneTopLevelEnum.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputAnnotatedVisibilitySameTypeName.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputOneTopLevelInterface2.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/innertypelast/InputInnerTypeLastClass.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/mutableexception/InputMutableExceptionClassExtendsGenericClass.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/mutableexception/InputMutableException.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InetSocketAddress.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputMutableException.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputImmutableStarImport.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputImmutable.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputHideUtilityClassConstructor3041574_3.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputGregorianCalendar.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputOneTopLevelClass.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputDeclarationOrder.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputClone.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/finalclass/InputFinalClass.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputVisibilityModifierGenerics.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputThrowsCount.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputDesignForExtensionMultipleAnnotations.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputDesignForExtension.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputOneTopLevelEnum2.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputSimple.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/design/InputUtilityClassConstructor.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/InputReturnFromFinally.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/InputNoNewlineAtEndOfFile.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputIllegalThrows.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputIllegalInstantiation2.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/missingctor/InputMissingCtor.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputSemantic.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/superfinalize/InputSuperFinalizeVariations.java">
 </file>
@@ -2141,6 +2141,10 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/nofinalizer/InputNoFinalizerHasFinalizer.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/nofinalizer/InputNoFinalizerFallThrough.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/illegalinstantiation/InputIllegalInstantiationSemantic.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/illegalinstantiation/InputIllegalInstantiation.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/returncount/InputReturnCountLambda.java">
 </file>
@@ -2166,8 +2170,6 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/packagedeclaration/InputPackageDeclarationDiffDirectoryAtSubpackage.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputSimplifyBoolean.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/overloadmethoddeclaration/InputOverloadMethodsDeclarationOrder.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/fallthrough/InputFallThrough2.java">
@@ -2178,6 +2180,8 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/magicnumber/InputMagicNumber.java">
 </file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/illegaltokentext/InputIllegalTokenTextTokens.java">
+</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/superclone/InputSuperClonePlainAndSubclasses.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/superclone/InputSuperCloneInnerAndWithArguments.java">
@@ -2185,6 +2189,8 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/arraytrailingcomma/InputArrayTrailingComma.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/simplifybooleanreturn/InputSimplifyBooleanReturn.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/noclone/InputNoClone.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/hiddenfield/InputHiddenFieldReceiver.java">
 </file>
@@ -2195,8 +2201,6 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/hiddenfield/InputHiddenFieldLambdas.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/hiddenfield/InputHiddenFieldStaticVisibility.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputIllegalThrowsIgnoreOverriddenMethods.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/finallocalvariable/InputFinalLocalVariableFalsePositive.java">
 </file>
@@ -2240,9 +2244,7 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/covariantequals/InputCovariantEquals.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputGregorianCalendar.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputInnerAssignment.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/illegaltoken/InputIllegalTokens.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/equalshashcode/InputEqualsHashCode.java">
 </file>
@@ -2251,8 +2253,6 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/equalshashcode/InputEqualsHashCodeNoEquals.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/equalshashcode/InputEqualsHashCodeEqualsParameter.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputClone.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/requirethis/InputRequireThisReceiver.java">
 </file>
@@ -2294,10 +2294,6 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/equalsavoidnull/InputEqualsAvoidNull.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputInnerAssignmentLambdaExpressions.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputFallThrough.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/illegalcatch/InputIllegalCatch.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/illegalcatch/InputIllegalCatch2.java">
@@ -2306,13 +2302,15 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/multiplevariabledeclarations/InputMultipleVariableDeclarations.java">
 </file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/innerassignment/InputInnerAssignment.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/innerassignment/InputInnerAssignmentLambdaExpressions.java">
+</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/declarationorder/InputDeclarationOrderAvoidDuplicatesInStaticFinalFields.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/declarationorder/InputDeclarationOrder.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/declarationorder/InputDeclarationOrderForwardReference.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/Input15Extensions.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/defaultcomeslast/InputSkipIfLastAndSharedWithCase.java">
 </file>
@@ -2326,7 +2324,9 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/missingswitchdefault/InputMissingSwitchDefault.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/InputIllegalTokens.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/illegalthrows/InputIllegalThrows.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/coding/illegalthrows/InputIllegalThrowsIgnoreOverriddenMethods.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/InputStringLiteralEquality.java">
 </file>
@@ -2349,6 +2349,8 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/metrics/inputs/b/BClass.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/metrics/InputClassFanOutComplexityExcludedPackagesCommonPackage.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/metrics/InputNPathComplexity.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/metrics/InputBooleanExpressionComplexity.java">
 </file>
@@ -2532,25 +2534,37 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/InputOuterTypeFilename1.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputCatchParameterName.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputTypeName.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/staticvariablename/InputStaticVariableName.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/staticvariablename/InputStaticVariableName1.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputMethNameEqualClsName.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/interfacetypeparametername/InputInterfaceTypeParameterName.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputInner.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/constantname/InputConstantNameMemberExtended.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/constantname/InputConstantNameInner.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/constantname/InputConstantNameStaticModifierInInterface.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/constantname/InputConstantName.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/constantname/InputConstantNameSimple.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/membername/InputMemberNameSimple.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/membername/InputMemberName.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/membername/InputMemberNameInner.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/membername/InputMemberNameExtended.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/catchparametername/InputCatchParameterName.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/catchparametername/InputCatchParameterNameSimple.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/abstractclassname/InputAbstractClassName.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/abstractclassname/InputAbstractClassNameFormerFalsePositive.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputStaticModifierInInterface.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputEmptyStatement.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/abbrevationaswordinname/InputAbbreviationAsWordInNameType.java">
 </file>
@@ -2560,19 +2574,23 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/abbrevationaswordinname/InputAbbreviationAsWordInNameAbstractMultisetSetCount.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputCatchOnly.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/typename/InputTypeName.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/localfinalvariablename/InputLocalFinalVariableName.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/localfinalvariablename/InputLocalFinalVariableNameInnerClass.java">
 </file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/classtypeparametername/InputClassTypeParameterName.java">
+</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/methodtypeparametername/InputMethodTypeParameterName.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputMemberName.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/methodname/InputMethodNameSimple.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputMethodNameOverridenMethods.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/methodname/InputMethodNameEqualClassName.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputMethodNameExtra.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/methodname/InputMethodNameOverridenMethods.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/methodname/InputMethodNameExtra.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/parametername/InputParameterNameCatchOnly.java">
 </file>
@@ -2586,19 +2604,13 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/parametername/InputAccessModifier.java">
 </file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/packagename/InputPackageNameSimple.java">
+</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/localvariablename/InputLocalVariableNameInnerClass.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/localvariablename/InputLocalVariableNameOneCharInitVarName.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/localvariablename/InputLocalVariableName.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputConstantNames.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputTypeParameterName.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputMemberNameExtended.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/naming/InputSimple.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/InputFinalParametersReceiver.java">
 </file>
@@ -2762,39 +2774,27 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/InputIllegalTokens.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputBracesSingleLineStatements.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBraces.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputBraces.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBracesSingleLineLambda.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputSemantic.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBracesEmptyDefault.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputNeedBraces.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBracesSingleLineStatements.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlySingelineIfBlocks.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBracesNoBodyLoops.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputNeedBracesEmptyDefault.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBracesConditional.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyTryResource.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptyblock/InputEmptyBlockSemantic.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlySameLambda.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptyblock/InputEmptyBlockSemantic2.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyEmptyAbstractMethod.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptyblock/InputEmptyBlockCase.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyAloneOrSinglelineLambda.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyLineBreakBefore.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputSingleLineLambda.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyNameForOneLiners.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyAnnotations.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyDoWhile.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptyblock/InputEmptyBlockDefault.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/avoidnestedblocks/InputAvoidNestedBlocksDefault.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputEmptyDefault.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/leftcurly/InputLeftCurlyAnnotations.java">
 </file>
@@ -2816,21 +2816,33 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/leftcurly/InputLeftCurlyMethod.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputLeftCurlyOther.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyLeft.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputSemantic2.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlySingelineIfBlocks.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputNeedBracesNoBodyLoops.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyTryResource.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputEmptyCase.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlySameLambda.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyAloneOrSingleline.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyEmptyAbstractMethod.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurlyAloneLambda.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAloneOrSinglelineLambda.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyLineBreakBefore.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyNameForOneLiners.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAnnotations.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyDoWhile.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAloneOrSingleline.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAloneLambda.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurly.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptycatchblock/InputEmptyCatchBlockDefault.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/InputRightCurly.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/InputOuterTypeFilename3.java">
 </file>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="7.7-SNAPSHOT">
+<checkstyle version="7.8-SNAPSHOT">
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/jdk.jartool/share/classes/sun/tools/jar/JarException.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/jdk.jartool/share/classes/sun/tools/jar/Manifest.java">
@@ -8528,188 +8528,6 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/jdk.internal.opt/share/classes/jdk/internal/joptsimple/OptionSpecTokenizer.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/Validator/src/Validate.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/Validator/src/SupplierValidator.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/Validator/src/PositiveIntegerSupplier.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/Validator/src/Validator.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/DependencyChecker/Plugins/src/plugins/TimerPlugin.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/DependencyChecker/Plugins/src/plugins/ExtendedBoilerPlugin.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/DependencyChecker/Plugins/src/plugins/BoilerPlugin.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/DependencyChecker/PluginChecker/src/checker/Device.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/DependencyChecker/PluginChecker/src/checker/RequireContainer.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/DependencyChecker/PluginChecker/src/checker/PluginChecker.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/DependencyChecker/PluginChecker/src/checker/Module.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/annotations/DependencyChecker/PluginChecker/src/checker/Require.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/multicast/MulticastAddress.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/multicast/Reader.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/multicast/Sender.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/chatserver/MessageReader.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/chatserver/ChatServer.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/chatserver/DataReader.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/chatserver/Client.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/chatserver/NameReader.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/chatserver/ClientReader.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Dispatcher1.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/N1.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/RequestServicer.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/URLDumper.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Dispatcher.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Request.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/DispatcherN.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/BP.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/MalformedRequestException.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/BN.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Acceptor.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/RequestHandler.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/N2.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/ChannelIOSecure.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Content.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/FileContent.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Handler.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/ChannelIO.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Server.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/AcceptHandler.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/B1.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Sendable.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/StringContent.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/server/Reply.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/file/Copy.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/file/Xdd.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/file/WatchDir.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/file/FileType.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/file/AclEdit.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/file/Chmod.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/nio/file/DiskUsage.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/DefaultMethods/DiamondInheritance.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/DefaultMethods/MixIn.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/DefaultMethods/ArrayIterator.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/DefaultMethods/SimplestUsage.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/DefaultMethods/Inheritance.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/DefaultMethods/Reflection.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/BulkDataOperations/src/CSVProcessor.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/BulkDataOperations/src/WC.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/BulkDataOperations/src/PasswordGenerator.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/lambda/BulkDataOperations/src/Grep.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/forkjoin/mergesort/MergeDemo.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/forkjoin/mergesort/MergeSort.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/scripting/scriptpad/src/com/sun/sample/scriptpad/Main.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/try-with-resources/src/Unzip.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/try-with-resources/src/ZipCat.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/try-with-resources/src/CustomAutoCloseableSample.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/vm/clr-jvm/invoked.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/vm/jvm-clr/invoker.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/ScanDirAgent.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/DirectoryScanner.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/ResultLogManager.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/ResultLogManagerMXBean.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/ScanDirClient.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/DirectoryScannerMXBean.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/ScanManager.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/config/ScanManagerConfig.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/config/XmlConfigUtils.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/config/DirectoryScannerConfig.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/config/FileMatch.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/config/ResultLogConfig.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/config/ResultRecord.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/ScanDirConfigMXBean.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/ScanDirConfig.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/src/com/sun/jmx/examples/scandir/ScanManagerMXBean.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/test/com/sun/jmx/examples/scandir/ScanManagerTest.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/test/com/sun/jmx/examples/scandir/DirectoryScannerTest.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/test/com/sun/jmx/examples/scandir/TestUtils.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/test/com/sun/jmx/examples/scandir/config/XmlConfigUtilsTest.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/sample/share/jmx/jmx-scandir/test/com/sun/jmx/examples/scandir/ScanDirConfigTest.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/java.xml.crypto/share/classes/com/sun/org/apache/xml/internal/security/utils/XPathFactory.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/java.xml.crypto/share/classes/com/sun/org/apache/xml/internal/security/utils/Base64.java">
@@ -11667,6 +11485,8 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/java.base/share/classes/sun/security/util/Resources_ko.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/java.base/share/classes/sun/security/util/SecurityConstants.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/java.base/share/classes/sun/security/util/RegisteredDomain.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/java.base/share/classes/sun/security/util/DerInputStream.java">
 </file>
@@ -15698,16 +15518,6 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/java.prefs/macosx/classes/java/util/prefs/MacOSXPreferences.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/solaris/jni/Poller/Poller.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/solaris/jni/Poller/LinkedQueue.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/solaris/jni/Poller/Client.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/solaris/jni/Poller/PollingServer.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/solaris/jni/Poller/SimpleServer.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/java2d/J2DBench/src/j2dbench/Modifier.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/java2d/J2DBench/src/j2dbench/tests/RenderTests.java">
@@ -15828,12 +15638,6 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/applets/BarChart/BarChart.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/scripting/jconsole-plugin/src/com/sun/demo/scripting/jconsole/ScriptJConsolePlugin.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/scripting/jconsole-plugin/src/com/sun/demo/scripting/jconsole/EditableAtEndDocument.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/scripting/jconsole-plugin/src/com/sun/demo/scripting/jconsole/ScriptShellPanel.java">
-</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/jfc/Font2DTest/Font2DTestApplet.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/jfc/Font2DTest/RangeMenu.java">
@@ -15917,28 +15721,6 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/jfc/SampleTree/SampleTreeModel.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/jfc/SampleTree/SampleTreeCellRenderer.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/management/MemoryMonitor/MemoryMonitor.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/management/VerboseGC/PrintGCStat.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/management/VerboseGC/VerboseGC.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/management/FullThreadDump/FullThreadDump.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/management/FullThreadDump/ThreadMonitor.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/management/FullThreadDump/Deadlock.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/management/JTop/JTopPlugin.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/management/JTop/JTop.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/jvmti/minst/Minst.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/jvmti/mtrace/Mtrace.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/demo/share/jvmti/heapTracker/HeapTracker.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/jdk.httpserver/share/classes/sun/net/httpserver/HttpConnection.java">
 </file>
@@ -17759,6 +17541,8 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/jdk.jlink/share/classes/jdk/tools/jlink/internal/ArchiveEntryResourcePoolEntry.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/jdk.jlink/share/classes/jdk/tools/jlink/internal/ImagePluginStack.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/jdk.jlink/share/classes/jdk/tools/jlink/internal/Platform.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/src/jdk.jlink/share/classes/jdk/tools/jlink/internal/ResourcePoolEntryFactory.java">
 </file>
@@ -29005,6 +28789,8 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/net/ResponseCache/B6181108.java">
 </file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/time/nontestng/java/time/chrono/Bug8178823.java">
+</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/time/tck/java/time/TCKClock_Fixed.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/time/tck/java/time/TCKMonthDay.java">
@@ -30647,7 +30433,7 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/util/BitSet/StickySize.java">
 </file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/util/BitSet/BitSetStreamTest.java">
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/util/BitSet/stream/BitSetStreamTest.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/util/BitSet/PreviousBits.java">
 </file>
@@ -31122,6 +30908,8 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/util/stream/bootlib/java.base/java/util/stream/StreamOpFlagTestHelper.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/util/stream/bootlib/java.base/java/util/stream/LongStreamTestScenario.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/util/stream/bootlib/java.base/java/util/SpliteratorOfIntDataBuilder.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/java/util/stream/bootlib/java.base/java/util/SpliteratorTestHelper.java">
 </file>
@@ -34693,7 +34481,11 @@
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/tools/jlink/ImageFilePoolTest.java">
 </file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/tools/jlink/bindservices/src/m3/p3/MyProvider.java">
+</file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/tools/jlink/bindservices/src/m3/p3/Impl.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/tools/jlink/bindservices/src/m3/p3/S.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/tools/jlink/bindservices/src/m2/p2/T.java">
 </file>
@@ -36804,6 +36596,8 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/javax/management/loading/ArrayClassTest.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/javax/accessibility/8069268/bug8069268.java">
+</file>
+<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/javax/accessibility/JList/AccessibleJListChildNPETest.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/javax/accessibility/AccessibilityProvider/FooProvider.java">
 </file>
@@ -39212,8 +39006,6 @@
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/jdk/modules/open/modules/m1/p/NotPublicType.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/jdk/modules/open/modules/m1/p/PublicType.java">
-</file>
-<file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/jdk/asm/AsmSanity.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/openjdk9/test/jdk/net/SocketFlow/SocketFlowBasic.java">
 </file>

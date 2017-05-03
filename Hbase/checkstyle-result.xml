@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="7.7-SNAPSHOT">
+<checkstyle version="7.8-SNAPSHOT">
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/Hbase/dev-support/jenkins-tools/buildstats/src/main/java/org/apache/hadoop/hbase/devtools/buildstats/TestCaseResult.java">
 </file>
 <file name="/home/dkytsmen/IdeaProjects/contribution/checkstyle-tester/repositories/Hbase/dev-support/jenkins-tools/buildstats/src/main/java/org/apache/hadoop/hbase/devtools/buildstats/BuildResultWithTestCaseDetails.java">
